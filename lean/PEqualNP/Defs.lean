@@ -48,6 +48,8 @@ import PEqualNP.Defs.LiteralPartition
 import PEqualNP.Defs.MinimumComplex
 import PEqualNP.Defs.PendantBit
 import PEqualNP.Defs.BorrowedCoverCircuit
+import PEqualNP.Defs.LineDegree
+import PEqualNP.Defs.CircuitMoves
 
 /-!
 # The definitions root
